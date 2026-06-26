@@ -1,2 +1,1 @@
-# Vyomquant
-It is algo trading saas app 
+it is aerora Dynamics Private limited company dashboard platform for management 
